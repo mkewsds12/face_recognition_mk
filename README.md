@@ -52,7 +52,7 @@ A face detection, landmark localization, and feature extraction visualization to
 ```bash
 conda create -n cv python=3.9
 conda activate cv
-pip install dlib opencv-python numpy PyQt5
+conda install dlib opencv numpy pyqt -y
 ```
 
 ---
