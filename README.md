@@ -126,5 +126,5 @@ python 人脸识别可视化.py
 
 ## 许可证 / License
 
-本项目仅供学习和研究使用。  
-This project is for educational and research purposes only.
+本项目仅供学习和研究使用，不得用于任何商业用途。  
+This project is for educational and research purposes only and may not be used for any commercial purposes.
